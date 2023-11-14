@@ -1,0 +1,14 @@
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.AssemblyInfoInputs.cache
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.AssemblyInfo.cs
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.csproj.CoreCompileInputs.cache
+E:\Projects\ASPDOTNET\repos\TaskAndThread\bin\Debug\net7.0\TaskAndThread.exe
+E:\Projects\ASPDOTNET\repos\TaskAndThread\bin\Debug\net7.0\TaskAndThread.deps.json
+E:\Projects\ASPDOTNET\repos\TaskAndThread\bin\Debug\net7.0\TaskAndThread.runtimeconfig.json
+E:\Projects\ASPDOTNET\repos\TaskAndThread\bin\Debug\net7.0\TaskAndThread.dll
+E:\Projects\ASPDOTNET\repos\TaskAndThread\bin\Debug\net7.0\TaskAndThread.pdb
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.dll
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\refint\TaskAndThread.dll
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.pdb
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\TaskAndThread.genruntimeconfig.cache
+E:\Projects\ASPDOTNET\repos\TaskAndThread\obj\Debug\net7.0\ref\TaskAndThread.dll
